@@ -18,6 +18,6 @@ Software:
 - Docker
 - Discord
 - Email
-- Syslog
+- [Syslog](https://github.com/Empurion/Syslog)
 - React - Portfolio
 - React - Administrator Dashboard
