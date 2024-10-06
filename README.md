@@ -17,7 +17,7 @@ Software:
 - Matrix
 - Docker
 - Discord
-- [Email](https://github.com/Empurion/Email)
+- [Email](https://github.com/Empurion/IMAP-Retriever)
 - [Syslog](https://github.com/Empurion/Syslog)
 - React - Portfolio
 - React - Administrator Dashboard
