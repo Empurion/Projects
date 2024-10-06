@@ -1,6 +1,6 @@
 # Projects
 
-I always have a new idea, below you'll find some of the project I'm currently working on.
+I always have a new idea, below you'll find some of the projects I'm currently working on.
 
 I'm currently doing a lot with Javascript/Node.JS as I personally really enjoy dynamic typing.
 Started my programming journey on Java where that's not possible.
@@ -17,7 +17,7 @@ Software:
 - Matrix
 - Docker
 - Discord
-- Email
+- [Email](https://github.com/Empurion/Email)
 - [Syslog](https://github.com/Empurion/Syslog)
 - React - Portfolio
 - React - Administrator Dashboard
