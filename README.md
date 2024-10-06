@@ -1,8 +1,23 @@
 # Projects
-Click here for a click overview of my projects!
 
+I always have a new idea, below you'll find some of the project I'm currently working on.
 
-Node.JS:
+I'm currently doing a lot with Javascript/Node.JS as I personally really enjoy dynamic typing.
+Started my programming journey on Java where that's not possible.
 
-- syslog
-- imap receiver
+All personal projects are designed to be run inside containers with docker and connected through websockets.
+Dividing the projects into nodes and cores.
+
+Core:
+- Empurion.net
+
+The core is the glue that connects the applications to the system and database.
+
+Software:
+- Matrix
+- Docker
+- Discord
+- Email
+- Syslog
+- React - Portfolio
+- React - Administrator Dashboard
